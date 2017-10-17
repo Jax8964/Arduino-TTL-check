@@ -1,7 +1,9 @@
 # Arduino-TTL-check
 
-This repository is created in the spring of  2017  for a TTL type checking program written in Arduino.
+This repository is created in the spring of 2017 for a TTL chip checking program written in Arduino.
 
-Creators: Jax Sun, Steve Wang
+Creators: Jax Sun, Steve Wang.
 
-The TTL check Arduino files are able to use an Arduino board to identify the inner structure of the TTL chip if the chip is correctly connected to the Arduino board.
+The TTL check Arduino programs are able to use an Arduino board to identify the inner structure of some kinds of TTL chips.
+
+If the test chip is correctly connected to the Arduino board and the board is connected to a computer, there will be information about inner structure of the chip printed on the screen.
